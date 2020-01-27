@@ -1,11 +1,11 @@
 const readline = require("readline-sync");
 
-let c = readline.questionInt("Informe a quantidade de casos de teste!!!\n");
+let c = readline.questionInt("");
 
 let palavras = [];
 
 for (let i = 0; i < c; i++) {
-  let palavra = readline.question(`Informe a palavra ${i + 1}!!!\n`);
+  let palavra = readline.question("");
 
   if (palavra.length < 9 || palavra.length > 10000) {
     console.log("Informe no mínimo 9 caracteres ou no máximo 10000");

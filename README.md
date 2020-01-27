@@ -1,4 +1,4 @@
-Problema:
+# Problema:
 
 Certo dia, os irmãos Little Chitão e Xor Or Oh, exímios digitadores, fizeram um desafio,
 para ver quem era o melhor na digitação. Para isto, conseguiram um computador que
@@ -27,3 +27,6 @@ galopeeeeeeeeeeeeeeeeeira
 galopeeira
 Exemplo de Saída
 0.09 0.25 0.10
+
+- Run
+- node index.js

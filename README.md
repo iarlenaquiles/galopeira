@@ -28,5 +28,5 @@ galopeeira
 Exemplo de Saída
 0.09 0.25 0.10
 
-- Run
+# Run
 - node index.js
